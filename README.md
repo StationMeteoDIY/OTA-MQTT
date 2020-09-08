@@ -26,4 +26,4 @@ Installation de Python dans une version 2.7.x : https://www.python.org/downloads
   
   
 # Tuto vidéo
-Vidéo explicative sur YouTube : 
+Vidéo explicative sur YouTube : https://youtu.be/NpkfYsqb5gI
